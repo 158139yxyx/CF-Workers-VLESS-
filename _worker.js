@@ -12,7 +12,7 @@ let yourUUID = '5dc15e15-f285-4a9d-959b-0e4fbdd77b63'; // UUID，建议修改或
 
 let cfip = [ // cfip
 	'ip.sb', 'time.is', 'skk.moe', 'www.visa.com.tw', 'www.visa.com.hk', 'www.visa.com.sg',
-	'cf.090227.xyz','cf.877774.xyz', 'cdns.doon.eu.org', 'cf.zhetengsha.eu.org''chatgpt.com','x.com:8443'
+	'cf.090227.xyz','cf.877774.xyz', 'cdns.doon.eu.org', 'cf.zhetengsha.eu.org'
 ]; 
 
 let dnsResolver = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg=';
